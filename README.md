@@ -48,6 +48,9 @@ CharleBin is a web application that allows users to send encrypted messages secu
 4. **Additional Options**: You can choose to delete the message after reading by enabling the "Delete after reading" option
 
 
+---
+<br>
+Want to contribute to this project ? Check out the [Contributing.md](Contributing.md) file.
 
 
 
